@@ -16,8 +16,7 @@ On OSX:
 2. $gem install gosu  
 
 On Linux (not tested):  
-go to page and read up to date instructions  
-http://www.libgosu.org  
+go to http://www.libgosu.org and read up to date instructions  
 
 To launch the game:  
 Option 1:  
