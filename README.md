@@ -1,6 +1,8 @@
 event_game
 ==========
 
+![screenshot_image](textures/event_game_screen.png)
+
 Event based game I wrote to learn Ruby
 
 The main goal of this project is to write a generic event based library for my own use.
